@@ -10,8 +10,8 @@ import (
 	"path"
 
 	"github.com/jtejido/go-wsq"
-	"github.com/jtejido/sourceafis/primitives"
 	"github.com/spakin/netpbm"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/primitives"
 )
 
 type ImageOptions func(*Image) (*Image, error)

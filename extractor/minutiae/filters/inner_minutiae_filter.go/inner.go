@@ -1,9 +1,9 @@
 package inner
 
 import (
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/config"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/features"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/primitives"
 )
 
 func Apply(minutiae *primitives.GenericList[*features.FeatureMinutia], mask *primitives.BooleanMatrix) {

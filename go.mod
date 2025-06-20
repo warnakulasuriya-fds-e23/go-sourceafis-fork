@@ -1,4 +1,4 @@
-module github.com/jtejido/sourceafis
+module github.com/warnakulasuriya-fds-e23/go-sourceafis-fork
 
 go 1.21.0
 

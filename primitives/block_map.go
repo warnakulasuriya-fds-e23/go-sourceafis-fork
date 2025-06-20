@@ -1,7 +1,7 @@
 package primitives
 
 import (
-	"github.com/jtejido/sourceafis/utils"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/utils"
 )
 
 type BlockMap struct {

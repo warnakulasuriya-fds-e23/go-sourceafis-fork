@@ -3,8 +3,8 @@ package sourceafis
 import (
 	"context"
 
-	"github.com/jtejido/sourceafis/matcher"
-	"github.com/jtejido/sourceafis/templates"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/matcher"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/templates"
 )
 
 type Matcher struct {

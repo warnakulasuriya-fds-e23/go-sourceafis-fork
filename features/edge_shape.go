@@ -4,8 +4,8 @@ import (
 	"math"
 	"math/bits"
 
-	"github.com/jtejido/sourceafis/primitives"
-	"github.com/jtejido/sourceafis/utils"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/primitives"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/utils"
 )
 
 const (

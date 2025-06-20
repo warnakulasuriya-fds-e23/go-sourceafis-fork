@@ -3,7 +3,7 @@ package features
 import (
 	"sort"
 
-	"github.com/jtejido/sourceafis/config"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/config"
 )
 
 type NeighborEdge struct {

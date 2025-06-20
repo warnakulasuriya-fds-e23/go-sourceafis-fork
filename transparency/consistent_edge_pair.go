@@ -1,6 +1,6 @@
 package transparency
 
-import "github.com/jtejido/sourceafis/matcher"
+import "github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/matcher"
 
 type ConsistentEdgePair struct {
 	ProbeFrom, ProbeTo, CandidateFrom, CandidateTo int

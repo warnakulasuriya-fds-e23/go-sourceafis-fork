@@ -3,7 +3,7 @@ package templates
 import (
 	"sort"
 
-	"github.com/jtejido/sourceafis/features"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/features"
 )
 
 const PRIME = 1610612741

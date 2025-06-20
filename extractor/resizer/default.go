@@ -4,8 +4,8 @@ import (
 	"math"
 	"sync"
 
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/config"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/primitives"
 )
 
 func Resize(input *primitives.Matrix, dpi float64) *primitives.Matrix {

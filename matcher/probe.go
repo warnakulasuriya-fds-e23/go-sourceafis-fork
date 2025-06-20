@@ -1,8 +1,8 @@
 package matcher
 
 import (
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/templates"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/features"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/templates"
 )
 
 type Probe struct {

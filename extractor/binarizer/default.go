@@ -3,10 +3,10 @@ package binarizer
 import (
 	"sync"
 
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/extractor/filter/vote"
-	"github.com/jtejido/sourceafis/extractor/logger"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/config"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/extractor/filter/vote"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/extractor/logger"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/primitives"
 )
 
 type BinarizedImage struct {

@@ -1,10 +1,10 @@
 package fragment
 
 import (
-	"github.com/jtejido/sourceafis/config"
-	"github.com/jtejido/sourceafis/extractor/logger"
-	"github.com/jtejido/sourceafis/extractor/skeletons/filters/dot"
-	"github.com/jtejido/sourceafis/features"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/config"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/extractor/logger"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/extractor/skeletons/filters/dot"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/features"
 )
 
 type SkeletonFragmentFilter struct {

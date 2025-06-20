@@ -6,8 +6,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/jtejido/sourceafis"
-	"github.com/jtejido/sourceafis/config"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/config"
 
 	"log"
 )

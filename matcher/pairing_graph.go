@@ -1,6 +1,6 @@
 package matcher
 
-import "github.com/jtejido/sourceafis/templates"
+import "github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/templates"
 
 type PairingGraph struct {
 	pool                                *MinutiaPairPool

@@ -1,8 +1,8 @@
 package minutiae
 
 import (
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/primitives"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/features"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/primitives"
 )
 
 func Collect(ridges, valleys *features.Skeleton) (*primitives.GenericList[*features.FeatureMinutia], error) {

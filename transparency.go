@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/jtejido/sourceafis/features"
-	"github.com/jtejido/sourceafis/matcher"
-	"github.com/jtejido/sourceafis/transparency"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/features"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/matcher"
+	"github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/transparency"
 
 	"github.com/fxamacker/cbor/v2"
 )

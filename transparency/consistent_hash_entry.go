@@ -1,6 +1,6 @@
 package transparency
 
-import "github.com/jtejido/sourceafis/features"
+import "github.com/warnakulasuriya-fds-e23/go-sourceafis-fork/features"
 
 type ConsistentHashEntry struct {
 	Key   int
